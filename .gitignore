@@ -1,0 +1,8 @@
+__pycache__/
+*.log
+*.err
+*.out
+*.csv
+*state.json
+delta_bot_config.json
+.env

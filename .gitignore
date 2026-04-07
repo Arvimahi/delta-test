@@ -6,3 +6,5 @@ __pycache__/
 *state.json
 delta_bot_config.json
 .env
+.venv/
+*.joblib
